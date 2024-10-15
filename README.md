@@ -32,7 +32,7 @@ If you're interested in collaborating or have any inquiries, feel free to reach 
 <a href="https://www.tiktok.com/@devxair" target="_blank">
   <img src="https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white&color=545454" alt="tiktok" height="50" />
 </a>
-  <a href="https://www.behance.net/" target="_blank">
+  <a href="https://www.behance.net/devxair" target="_blank">
   <img src="https://img.shields.io/badge/behance-%231E90FF.svg?&style=for-the-badge&logo=behance&logoColor=white&color=003ECB" alt="behance" height="50"/>
 </a>
 </div>
