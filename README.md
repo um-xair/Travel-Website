@@ -9,7 +9,7 @@ A responsive and visually appealing **Travel Website** showcasing beautiful dest
 
 
 ## Live Demo  
-Check it out here: [Responsive Portfolio](https://r4xn.netlify.app/design/travel.html) 
+Check it out here: [Hotel Website](https://r4xn.netlify.app/design/travel.html) 
 
 ## Features  
 
